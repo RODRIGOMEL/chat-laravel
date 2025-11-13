@@ -28,7 +28,7 @@ cria as novas tabelas para os chats
 
 agora acesse o site do chatify https://pusher.com/ e crie uma conta, acesse o "get started" na opção de chats na home
 
-<img width="616" height="698" alt="Captura de tela 2025-11-12 102240" src="https://github.com/user-attachments/assets/c6141114-3c3e-4a3f-8cb2-f7dc2199ea4e" />
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/8e3b1bdd-a58d-42b8-be61-794b06a3393e" />
 
 preencha como a imagem a cima, mude apenas o nome caso queira
 
@@ -38,15 +38,17 @@ com o projeto criado vá em get started adicione as imformações a cima em seu 
 
 ## Execução do sistema
 
-<img width="1877" height="985" alt="Captura de tela 2025-11-12 105949" src="https://github.com/user-attachments/assets/24288c59-7433-40d5-bf4e-11dd0fa4c3b9" />
+<img width="1600" height="787" alt="image" src="https://github.com/user-attachments/assets/1ba3d31e-4745-45b4-b3d5-51c9043519a6" />
 
-<img width="1913" height="771" alt="Captura de tela 2025-11-12 105958" src="https://github.com/user-attachments/assets/cd2e4495-d784-4f4e-89c0-a9aab205f591" />
+<img width="1600" height="644" alt="image" src="https://github.com/user-attachments/assets/883a74ad-6545-4c44-a655-b92052a1c406" />
+
+
 
 ## Banco de dados
 
 <img width="1590" height="747" alt="Captura de tela 2025-11-12 110033" src="https://github.com/user-attachments/assets/b4661e86-18b7-41e6-9ce0-b695b53e28a4" />
 
-<img width="1653" height="242" alt="Captura de tela 2025-11-12 111525" src="https://github.com/user-attachments/assets/300b3531-5cf5-4aeb-a230-678ad8732a43" />
+<img width="1408" height="129" alt="image" src="https://github.com/user-attachments/assets/7251151f-faba-43ea-a639-b93d168140e5" />
 
 ## Comentários
 
